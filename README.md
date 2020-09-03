@@ -7,7 +7,7 @@
 * Created services in Flask to manage users across multiple micro-services.
 * Created an automated tests suite for integration tests across more than 15 services to generate policies and claims while raising all the infra on the fly.
 ### IBI GROUP | SOFTWARE TEAM LEAD
-**Oct 2016 – Now | Hyderabad, Telangana & Gurgaon, Haryana**
+**Oct 2016 – Dec, 2018 | Hyderabad, Telangana & Gurgaon, Haryana**
 * Created Smartcity Hyderabad Project(ITMS) from scratch with the team of 2 and pushed it to production working with the team of 16 people.
 * Implemented multiple micro-services within application to manage Devices, Events, Maps & Response Plan and created REST APIs using Django and DRF.
 * Implemented two IOT integrations for Intercom Devices & Flood Sensor using Flask framework over TCP, IP protocol.
