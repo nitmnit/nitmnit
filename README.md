@@ -1,18 +1,19 @@
 # Nitin Suresh
 ## Experience
+### IBI GROUP | TEAM LEAD [CurbIQ](https://curbiq.io/)
+**July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
+* Created Smartcity Hyderabad Project(ITMS) from scratch with the team of 2 and pushed it to production working with the team of 16 people.
+* Implemented multiple micro-services within application to manage Devices, Events, Maps & Response Plan and created REST APIs using Django and DRF.
+* Implemented two IOT integrations for Intercom Devices & Flood Sensor using Flask framework over TCP, IP protocol.
+* Created and implemented routing algorithms using Postgres, PostGIS & PgRouting. Wrote service to consume high volume data using Elastic search and Redis as cache.
+* Implemented Response Plan to respond to major events in city like Road Accidents, VIP Movements, Road Closure in Smartcity Hyderabad application.
+
 ### PASARPOLIS INDONESIA | SENIOR SOFTWARE DEVELOPER
 **Dec 2018 – Now | Gurgaon, Haryana**
 * Created BigQuery to CSV dynamic etl pipeline in airflow and improved document OCR using GCP Vision APIs along with some custom algorithms on top of it.
 * Created a Chatbot to process instant claims and policy status by users using Google Dialogflow.
 * Created services in Flask to manage users across multiple micro-services.
 * Created an automated tests suite for integration tests across more than 15 services to generate policies and claims while raising all the infra on the fly.
-### IBI GROUP | SOFTWARE TEAM LEAD
-**Oct 2016 – Dec, 2018 | Hyderabad, Telangana & Gurgaon, Haryana**
-* Created Smartcity Hyderabad Project(ITMS) from scratch with the team of 2 and pushed it to production working with the team of 16 people.
-* Implemented multiple micro-services within application to manage Devices, Events, Maps & Response Plan and created REST APIs using Django and DRF.
-* Implemented two IOT integrations for Intercom Devices & Flood Sensor using Flask framework over TCP, IP protocol.
-* Created and implemented routing algorithms using Postgres, PostGIS & PgRouting. Wrote service to consume high volume data using Elastic search and Redis as cache.
-* Implemented Response Plan to respond to major events in city like Road Accidents, VIP Movements, Road Closure in Smartcity Hyderabad application. 
 ### ASKMEBAZAAR, GETITINFO PVT. LTD. | FULL STACK DEVELOPER
 **August 2015 – Oct, 2016 | Gurgaon, Haryana**
 * Created schema(SOLR) for products and filters in Search and Category pages using “Apache Solr”, “Redis” for Scalability, Python, PHP, SQLAlchemy and MySql. Also Created Failsafe Management System in “Redis” using AOF & RDB.
