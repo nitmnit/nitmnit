@@ -10,7 +10,7 @@
 * Implemented Response Plan to respond to major events in city like Road Accidents, VIP Movements, Road Closure in Smartcity Hyderabad application.
 
 ### PASARPOLIS INDONESIA | SENIOR SOFTWARE DEVELOPER
-**Dec 2018 – Now | Gurgaon, Haryana**
+**Dec 2018 – Oct 2020 | Gurgaon, Haryana**
 * Created BigQuery to CSV dynamic etl pipeline in airflow and improved document OCR using GCP Vision APIs along with some custom algorithms on top of it.
 * Created a Chatbot to process instant claims and policy status by users using Google Dialogflow.
 * Created services in Flask to manage users across multiple micro-services.
