@@ -1,7 +1,7 @@
 # Nitin Suresh
 ## Experience
-> IBI GROUP | TEAM LEAD [CurbIQ](https://curbiq.io/) \
-> **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
+### IBI GROUP | TEAM LEAD [CurbIQ](https://curbiq.io/) \
+**July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
 * Created Smartcity Hyderabad Project(ITMS) from scratch with the team of 2 and pushed it to production working with the team of 16 people.
 * Implemented multiple micro-services within application to manage Devices, Events, Maps & Response Plan and created REST APIs using Django and DRF.
 * Implemented two IOT integrations for Intercom Devices & Flood Sensor using Flask framework over TCP, IP protocol.
