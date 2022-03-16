@@ -1,4 +1,5 @@
 # Nitin Suresh
+** [nitmnit@gmail.com](mailto:nitmnit@gmail.com)
 ## Experience
 ### IBI GROUP | TEAM LEAD [CurbIQ](https://curbiq.io/)
 **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
