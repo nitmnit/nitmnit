@@ -1,6 +1,7 @@
 # Nitin Suresh
 **[nitmnit@gmail.com](mailto:nitmnit@gmail.com)**
-**[LinkedIn](https://www.linkedin.com/in/nitmnit/)
+
+**[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
 
 ## Who am I?
 A Problem Solver who takes ownership and has  the mental resilience to deliver results by going 100 extra miles when required. I have done everything from building and scaling microservices to writing FE during resource crunch to collaborating with carpenters to build office furniture.
