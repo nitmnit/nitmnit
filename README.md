@@ -3,12 +3,6 @@
 
 **[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
 
-## Who am I?
-A Problem Solver who takes ownership and has  the mental resilience to deliver results by going 100 extra miles when required. I have done everything from building and scaling microservices to writing FE during resource crunch to collaborating with carpenters to build office furniture.
-
-## Motivation
-I hope to be in a fox-hole with bunch of smart engineers solving real world problems in creative ways to go far beyond expected standards.
-
 ## Experience (8 years)
 ### Associate General Manager (60% Coding  +  30% Team Lead + 10% EM)
 #### Arcadis IBI Group, Hyderabad, India | **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
