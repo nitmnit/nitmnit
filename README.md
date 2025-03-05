@@ -3,7 +3,7 @@
 
 **[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
 
-## Experience (8 years)
+## Experience
 ### Backend Engineer (Associate General Manager)
 #### Arcadis IBI Group, Hyderabad, India | **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
 - Achieved scalability of an application from 5 to 500 concurrent users by utilizing various techniques such as Microservice Architecture, Redis Caching, AWS Cloudfront CDN, and optimization of both code (Django) and queries (Django ORM + PSQL).
