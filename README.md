@@ -4,69 +4,59 @@
 **[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
 
 ## Experience
-### Backend Engineer (Associate General Manager)
-#### Arcadis IBI Group, Hyderabad, India | **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
-- Achieved scalability of an application from 5 to 500 concurrent users by utilizing various techniques such as Microservice Architecture, Redis Caching, AWS Cloudfront CDN, and optimization of both code (Django) and queries (Django ORM + PSQL).
-- Improved API performance by 73% by implementing Cache Aside and Write Around caching strategy, and utilized background processing with Message Brokers (Rabbitmq) for long-running tasks. This resulted in a smoother user experience and increased website traffic.
-- Designed and implemented a comprehensive CICD strategy utilizing Kubernetes (with Helm), Bitbucket, AWS, Docker, and GitLab Flow. This enabled us to minimize downtime in production and provided us with the necessary resources to scale rapidly.
-- Built data ingestion pipeline (900 Peak QPS) to receive data from 300 IoT Devices using socket.io
-- Architected highly scalable notifications service (current capacity 300 QPS, scalable up to 10k Peak QPS) to send Email, SMS, Webapp and Mobile Push Notifications using Django, DRF, and Postgres, ensuring reliable delivery of notifications to users.
-- Architected and implemented Hierarchical Geography based access management system. This allows us to limit user's jurisdiction to limited geographical area to manage assets within an Asset Management tool called InForm.
-- Wrote complex GIS algorithms to calculate Curb Regulation Attributes from Open Maps database using PostGIS. This is for a Curbside Regulation Management tool called CurbIQ.
-- Managed team of 10 developers to empower them, to build a culture of openness, collaboration and led them through Hell Sprint.
-- Created an automated CI/CD pipeline (using Bitbucket, AWS, Docker). This allowed us to move to a continuous delivery model, shipping to production once every week (previously, we’d been deploying once in quarter).
-- Addressed security vulnerabilities in Product to attain SOC2 certification (Ongoing)
-- Standardized and executed the Hiring Process for Engineering and successfully filled 7 open positions.
+### Software Development Engineer - III
+#### Arcadis, Hyderabad, India | **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
+★ Scaled Django (Python) microservices to serve 1k requests per minute for product CurbIQ
+- Denormalized Postgres database to enhance data retrieval speed and efficiency
+- Optimized database queries and indexes to reduce load times
+- Implemented API caching and message queues using Redis & Celery
+- Built assets microservice in Django, capable of visualizing 20 million geographic data points as a tile layer in PostGIS, with dynamic clustering at various zoom levels.
+- Architected dynamic Notification Service enabling high-scale push notifications (mobile/web), SMS, E-mail notifications using Django, Redis, Celery, Docker, kubernetes & AWS
+- Migrated REST APIs to GraphQL, utilizing GraphQL Yoga in TypeScript, Prisma, and PostgreSQL, reducing client-server communication overhead and improving flexibility.
+★ Led CurbIQ & InformT product engineering teams to efficiently deliver features in agile environment & mentored junior team members.
+- As Hiring Manager, designed and implemented a comprehensive hiring process, successfully recruiting for 15 technical positions.
 
-### Senior Software Engineer (Policies & Data Science Team)
+### Software Development Engineer - III
 #### Pasarpolis, Gurugram (India) | **Dec 2018 – Sep 2020 | Gurgaon, Haryana**
-- Reduced manual claims documents processing time by 5% by improving efficacy of image processing using Geometric Image Processing algorithms. Improved the efficacy to 92% (90% true positives, 2% true negatives) from initial 60%.
-- Created a Bahasa (Indonesian) chatbot using Google Dialogflow that could perform user authentication, check policy status, raise claims, and upload documents.
-- Created highly scalable (500 RPM, Scalable up to 3k RPM) User Microservice for authentication and authorization using Flask and MySQL.
-- Took and delivered an initiative to make our Document Generation Service dynamic. Earlier we needed to add HTML templates to repository manually to generate Email Attachments.
-- Created an automated tests suite for integration tests across more than 15 microservices to generate policies and claims while raising all the required infrastructure (on GCP) on the fly using Kubernetes and Helm. These tests were part of production deployment pipeline which helped us stabilize the environment.
+- Improved efficacy of OCR for insurance document verification to 92% from 60% using Python algorithms.
+★ Developed & deployed a full-stack chatbot feature to create insurance and claims. It included:
+  - Backend microservice in Django to handle webhook from chatbot & upload documents
+  - Chatbot intents using Google Dialogflow in Bahasa (Indonesian) language
+  - Wrote frontend using Reactjs (Typescript), scss & Html
+  - Setting up application deployment using K8s, helm, Docker & Gitlab pipelines
+- Implemented and maintained scalable and secure User Microservice in Flask (Python) for JWT authentication and authorization using MySQL database, enhancing user security and service scalability.
+- Built automated test suite for integration tests across more than 10 micro-services to test critical use cases before a production and staging release using Docker, Kubernetes, Helm, GCP, Gitlab pipelines & Jenkins.
 
-### Full Stack Developer (Smartcity Team)
-#### Arcadis IBI Group, Hyderabad (India) | Oct 2016 - Dec 2018
-- As primary developer, developed and productionized Smartcity Hyderabad Project (ITMS) from scratch starting with a team of 2 and building team of 16 engineers. It could control and manage road electronics infrastructure (Traffic Lights, VMB, CCTV, ATCC, etc.).
-- Implemented microservices and REST APIs using Django and DRF to manage devices, Road Events, Spatial Queries, and Response Plans within the application.
-- Implemented 2 IoT integrations for Intercom Devices & Flood Sensors using Flask framework.
-- Implemented automated Response Plan to respond to major events in city like Road Accidents, VIP Movements, Road Closure in Smartcity Hyderabad application. This could respond to real-time events in city by rerouting the traffic (using VMB) avoiding road closures to creating green corridors (by making Traffic Lights green) for Ambulances. 
-- Implemented routing algorithms for Response Plan to decide all automated actions to be taken to address the event. Using Postgres, PostGIS & PgRouting. Wrote service to consume high volume data using Elastic search and Redis as write-through cache.
+### Software Development Engineer - II
+#### Arcadis, Hyderabad (India) | Oct 2016 - Dec 2018
+- Developed RESTful APIs & Django apps using Python, DRF, PostgreSQL, & PostGIS, enhancing Smartcity ITMS project's backend functionality.
+- Enabled seamless interoperability with city infrastructure by developing device and third-party integrations using Flask and SQLAlchemy
+★ Built automated response algorithms using PostgreSQL functions, pgRouting, PostGIS, and Python to dynamically handle major urban events like accidents, road closures, and VIP movements, significantly improving real-time city response operations.
+- Led and expanded a team of 16 engineers, scaling backend capabilities and accelerating project delivery
 
-### Full Stack Developer (Core Team)
+### Frontend Engineer
 #### AskMeBazaar, Gurugram (India) | Aug 2015 – Oct 2016
-- Created schema (Solr) for products and filters in Search and Category pages using Apache Solr, Redis for Scalability, Python, PHP, SQLAlchemy, and MySql. Also Created Failsafe Management System in Redis using AOF & RDB.
-- Optimized the website backend and front end performances by adding concatenation, minification, caching, versioning, and synchronizing all the static resources to Amazon S3 Bucket used in the website. Technologies used: PHP OpenCart, Amazon S3 Bucket, Grunt, RequireJs, NPM.
+- Built feature to improve product filters for E-commerce platform using PHP, Apache Solr, MySQL & Redis.
+- Optimized the website front-end performance by minimizing, caching & versioning all the static resources using Javascript, Amazon S3 Bucket, Grunt, RequireJs, NPM.
+- Implemented many new frontend features using Javascript, Html & CSS.
 
-### Frontend Developer
-#### Techglobemedia, Noida (India) | Jan 2015 - Aug 2015
+### Frontend Engineer
+#### Techglobemedia (Noida, India), IMS Institute (Delhi, India), Freelance (Udaipur, India) | Jul 2012 - Aug 2015
 - Implemented client projects on WordPress, Code Ignitor and PhoneGap. Worked on WordPress Plugin Development, Woocommerce, BeTheme, PHP, MySQL, Neo4j, JQuery Plugins, Requirejs, JQuery, Grunt, NPM, JQuery Mobile & Ajax.
-
-### Receptionist
-#### IMS INSTITUTE, Mukherjee Nagar, Delhi | Jun 2014 – Dec 2014
-- Talking to customers and explaining and enrolling them through courses
-- Creating and printing test series
-
-### Failed Startup and Freelance, Jaipur, Rajasthan | May 2012 – Jun 2013
-- Ran cloud kitchen
-- Delivery Boy
-- Freelance Website Building
-- Data Entry Operator
-- Teaching Computer
+- Built & maintained institute website and did SEO to bring it in top google results.
+- As a freelancer, created numerous websites using WordPress, PHP, HTML, and CSS, delivering customized solutions that met client needs and enhanced their online presence
 
 ### Achievements
-- Won Value Ambasaddor award among 300 employees in Arcadis IBI Group India.
-- Won Sprout Health challenge for Q4 2022 in Arcaids IBI Group.
+- Designated as “Value Ambassador” for Arcadis from among 300 employees.
+- Won award for best engineer at Pasarpolis
 - Worked on cardekho.com using Java Struts and Hybernet in two month Internship offered under scholarship by Girnarsoft Pvt. Ltd.
 - Organized an event in IBI Group with Aadarana Orphanage to celebrate Independence day with kids.
 - Won first prize in Hackathon `Startup Mashup` organized on July, 2015.
+- AIEEE 2008 (now IIT) All India Rank - 11727 from among 10.3 lakh candiates
 
 ## Education
 ### B.Tech. **Dropout** in Information Technology
 #### MNIT Jaipur, 2008-2012
-### B.C.A.
-#### Venkateshwara Open University, 2020-2023
 ### Higher Secondary
 #### 2007, 74% (Mathematics & Science)
 ### Secondary
@@ -76,35 +66,3 @@
 * Mathematics
 * Coding
 * Running
-
-## Skills
-* Languages
-  * Python
-  * Go
-  * PHP
-  * Javascript
-  * I'm Language agnostic and can pick up any language
-* Databases
-  * Postgres, PostGIS
-  * MySQL
-  * Redis
-* Frameworks
-  * Django (Expert)
-  * Flask
-  * Gin
-  * FastAPI
-  * Reactjs (Basics, built Chatbot)
-* Tools
-  * AWS: EC2, EKS, S3, CloudFront, RDS
-  * GCP: Compute, GKE
-  * Docker
-  * Kubernetes
-  * Helm
-  * Kafka
-  * RabbitMQ
-* Other
-  *   Distributed Systems
-  *   Engineering Best Practices
-  *   Soft Skills
-    *   Mentoring team of young graduates
-    *   Building rapport through 1-1
