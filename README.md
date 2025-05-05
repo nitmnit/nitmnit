@@ -1,4 +1,4 @@
-# Nitin Suresh
+# Nitin Kalal
 **[nitmnit@gmail.com](mailto:nitmnit@gmail.com)**
 
 **[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
