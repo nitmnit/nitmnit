@@ -4,7 +4,7 @@
 **[LinkedIn](https://www.linkedin.com/in/nitmnit/)**
 
 ## Experience
-### Software Development Engineer - III
+### Software Development Team Lead
 #### Arcadis, Hyderabad, India | **July 2021 – Now, Oct 2016 - Oct 2018 | Hyderabad, Telangana**
 - ★ Scaled **Django** (**Python**) microservices to serve 1k requests per minute for product CurbIQ
 - Denormalized **Postgres** database to enhance data retrieval speed and efficiency
